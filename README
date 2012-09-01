@@ -1,0 +1,16 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4201
+
+*tabpagecd* is a Vim plugin to use one tab page per project.  It records
+a current working directory for each tab page, and it changes the current
+working directory whenever you activate another tab page.  So that it makes
+easy to deal with project-local files.
+
+
+Requirements:
+- Vim 7.3 or later
+
+Latest version:
+http://github.com/kana/vim-tabpagecd
+
+Document in HTML format:
+http://vim-doc.heroku.com/view?https://github.com/kana/vim-tabpagecd/blob/master/doc/tabpagecd.txt

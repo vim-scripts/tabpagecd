@@ -1,0 +1,12 @@
+t:cwd	tabpagecd.txt	/*t:cwd*
+tabpagecd	tabpagecd.txt	/*tabpagecd*
+tabpagecd-bugs	tabpagecd.txt	/*tabpagecd-bugs*
+tabpagecd-changelog	tabpagecd.txt	/*tabpagecd-changelog*
+tabpagecd-changelog-0.0.0	tabpagecd.txt	/*tabpagecd-changelog-0.0.0*
+tabpagecd-changelog-0.0.1	tabpagecd.txt	/*tabpagecd-changelog-0.0.1*
+tabpagecd-contents	tabpagecd.txt	/*tabpagecd-contents*
+tabpagecd-events	tabpagecd.txt	/*tabpagecd-events*
+tabpagecd-interface	tabpagecd.txt	/*tabpagecd-interface*
+tabpagecd-introduction	tabpagecd.txt	/*tabpagecd-introduction*
+tabpagecd-variables	tabpagecd.txt	/*tabpagecd-variables*
+tabpagecd.txt	tabpagecd.txt	/*tabpagecd.txt*

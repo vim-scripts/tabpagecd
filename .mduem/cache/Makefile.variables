@@ -1,0 +1,6 @@
+all_files_in_repos :=          Makefile doc/tabpagecd.txt plugin/tabpagecd.vim t/basics.vim
+current_branch := master
+origin_name := origin
+origin_uri := /Users/kana/working/vim-tabpagecd
+repos_name := vim-tabpagecd
+version := 0.0.1
